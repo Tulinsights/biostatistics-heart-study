@@ -17,8 +17,8 @@ Inference: Using the Logit model to find which variables are "statistically sign
 
 # Data Dictionary
 
-Variable,Description,Unit
-male,Participant gender,"1=Male, 0=Female"
-age,Age at exam,Years
-sysBP,Systolic Blood Pressure,mmHg
-TenYearCHD,10-year risk of CHD,Binary (Target)
+Variable, Description, Unit
+male ,Participant gender, "1=Male,  0=Female"
+age, Age at exam, Years
+sysBP, Systolic Blood Pressure, mmHg
+TenYearCHD, 10-year risk of CHD, Binary (Target)
